@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "final.png"
+  avatar           : "nadimi.jpg"
   name             : "Dr. Mohammad Nadimi"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
-  employer         : "Department of Biosystems Engineering, University of Manitoba"
+  employer         : "University of Manitoba"
   location         : "Winnipeg, MB"
   uri              : # URL
   email            : "Mohammad.Nadimi[AT]umanitoba.ca" 
