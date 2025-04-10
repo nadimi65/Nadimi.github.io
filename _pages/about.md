@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "
-Developing industry-aligned smart technologies, integrated with advanced data analytics, to enhance agri-food production and storage efficiency, improve food quality, reduce losses, and minimize environmental impacts: true
+title: "Developing industry-aligned smart technologies, integrated with advanced data analytics, to enhance agri-food production and storage efficiency, improve food quality, reduce losses, and minimize environmental impacts"
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
