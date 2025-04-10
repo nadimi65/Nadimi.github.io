@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Developing smart, industry-aligned technologies and data analytics to enhance agri-food production efficiency, improve quality, reduce losses, and minimize environmental impact"
+title: "Exploring innovative agri-food quality monitoring solutions to improve food quality, reduce losses, and minimize environmental impacts"
 author_profile: true
 redirect_from: 
   - /about/
