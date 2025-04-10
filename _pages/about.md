@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
+title: "
+Developing industry-aligned smart technologies, integrated with advanced data analytics, to enhance agri-food production and storage efficiency, improve food quality, reduce losses, and minimize environmental impacts: true
 redirect_from: 
   - /about/
   - /about.html
